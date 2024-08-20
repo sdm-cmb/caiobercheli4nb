@@ -1,5 +1,3 @@
-Aqui está um template em Markdown para documentação de software, incluindo requisitos funcionais e não funcionais, bem como uma análise de riscos:
-
 # Nome do Projeto
 
 ## Descrição Geral
