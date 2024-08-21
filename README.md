@@ -1,4 +1,4 @@
-# Nome do Projeto
+# Nome do Projetos
 
 ## Descrição Geral
 Uma breve descrição do projeto, incluindo seus objetivos, escopo e principais funcionalidades.
