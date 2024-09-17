@@ -1,6 +1,6 @@
 import pool from '../config/database';
 
-const createUsersTable = async () => {
+const createProductTable = async () => {
   const client = await pool.connect();
   try {
     const queryText = `
@@ -18,6 +18,4 @@ const createUsersTable = async () => {
     client.release();
   }
 };
-createUsersTable() .then(() => process.exit(0));
-
-
+createProductTable() .then(() => process.exit(0));
